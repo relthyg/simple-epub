@@ -1,0 +1,7 @@
+body.chapter h1 {
+    text-align: center;
+}
+
+body.chapter p {
+    text-align: justify;
+}
